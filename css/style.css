@@ -1,0 +1,12 @@
+.our-team-bg {
+  background: url("../img/hospital.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+.our-team-content {
+  padding: 5% 40% 0 20%;
+}

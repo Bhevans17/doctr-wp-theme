@@ -11,12 +11,15 @@
                 </div>
                 <div class="col-md-3">
                     <h5>Latest Posts</h5>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet sint aliquam repellat eius deleniti accusantium! Magnam placeat velit officiis, amet voluptatum temporibus natus laudantium minima. Ipsa veniam ab voluptatibus vitae.</p>
                 </div>
                 <div class="col-md-3">
                     <h5>Latest Posts</h5>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt corporis cum repudiandae corrupti culpa, optio officia aliquam sed dicta inventore sint et assumenda nobis! Id ut earum dolores inventore velit!</p>
                 </div>
                 <div class="col-md-3">
                     <h5>Latest Posts</h5>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem aspernatur, assumenda voluptate mollitia, perferendis odit fugiat sint ad nulla porro vitae sapiente dicta architecto! Qui velit perspiciatis ipsam tempora quasi?</p>
                 </div>
                 <div class="col-md-12">
                     <ul class="nav">
@@ -44,7 +47,7 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<script src="index.js"></script>
+<script src="/doctr/js/index.js"></script>
 </body>
 
 </html>
