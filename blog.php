@@ -10,7 +10,7 @@
                 <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 my-5">
             <div class="card" style="width: 18rem;">
                 <img src="/doctr/img/doc-bg.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -20,7 +20,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 my-5">
             <div class="card" style="width: 18rem;">
                 <img src="/doctr/img/doc-bg.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -30,7 +30,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 my-5">
             <div class="card" style="width: 18rem;">
                 <img src="/doctr/img/doc-bg.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -40,7 +40,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 my-5">
             <div class="card" style="width: 18rem;">
                 <img src="/doctr/img/doc-bg.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -50,7 +50,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 my-5">
             <div class="card" style="width: 18rem;">
                 <img src="/doctr/img/doc-bg.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -60,7 +60,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 my-5">
             <div class="card" style="width: 18rem;">
                 <img src="/doctr/img/doc-bg.jpg" class="card-img-top" alt="...">
                 <div class="card-body">

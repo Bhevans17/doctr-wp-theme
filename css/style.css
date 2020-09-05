@@ -1,7 +1,7 @@
 .our-team-bg {
   background: url("../img/hospital.jpg");
-  background-position: center;
-  background-size: cover;
+  background-position: bottom;
+  background-size: contain;
   background-attachment: fixed;
   height: 100%;
   width: 100%;

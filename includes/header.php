@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="/doctr/css/style.css" type="text/css" rel="stylesheet">
+    <meta name="author" content="Brenden Evans">
+    <meta name="description" content="Website template for a medical type business.">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <title>Doctr | For Your Health</title>
 </head>
@@ -40,29 +42,29 @@
                     <li class="nav-item active">
                         <a class="nav-link" href="./index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="./about.php">About</a>
+                    </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Services
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Dietician</a>
-                            <a class="dropdown-item" href="#">Physical Therapy</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Medical Services</a>
+                            <a class="dropdown-item" href="#">Internal/Adult Family Medicine</a>
+                            <a class="dropdown-item" href="#">General Surgery</a>
+                            <a class="dropdown-item" href="#">Gastroenterology</a>
                         </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./about.php">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./blog.php">Blog</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./contact.php">Contact</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./blog.php">Blog</a>
+                    </li>
                 </ul>
                 <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Looking for?" aria-label="Search">
                     <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Search</button>
                 </form>
             </div>
